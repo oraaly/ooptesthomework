@@ -1,6 +1,7 @@
 # ooptesthomework
 开发平台
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/KaiFaPingTai.jpg ）
+![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/KaiFaPingTai.jpg ）
+
 项目开发计划
 1. 引言
 1.1 编写目的
@@ -39,8 +40,8 @@
 3.2 进度
     2016-2017上半学期1至10周进行c#语言的学习，第11周完成项目的整体构建，第12、13周完成软件开发。第14周完成后汇报演示。
 3.3 算法流程图
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa.jpg ）
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa2.jpg ）
+![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa.jpg ）
+![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa2.jpg ）
 4.成果截图
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian1.jpg ）
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian2.jpg ）
+![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian1.jpg ）
+![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian2.jpg ）
