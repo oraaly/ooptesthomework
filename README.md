@@ -1,6 +1,6 @@
 # ooptesthomework
 开发平台
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/KaiFaPingTai.jpg）
+![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/KaiFaPingTai.jpg ）
 
 项目开发计划
 1. 引言
@@ -47,8 +47,8 @@
 
 
 3.3 算法流程图
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa.jpg）
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa2.jpg）
+![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa.jpg ）
+![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa2.jpg ）
 4.成果截图
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian1.jpg）
-![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian2.jpg）
+![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian1.jpg ）
+![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian2.jpg ）
