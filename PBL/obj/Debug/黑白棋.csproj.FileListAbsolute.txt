@@ -1,0 +1,30 @@
+E:\我的书稿\C#经典游戏开发--2009书稿（合作出版）\书稿2011\游戏代码\第一篇  益智游戏\黑白棋2.0\obj\Debug\黑白棋.exe
+E:\我的书稿\C#经典游戏开发--2009书稿（合作出版）\书稿2011\游戏代码\第一篇  益智游戏\黑白棋2.0\obj\Debug\黑白棋.pdb
+E:\我的书稿\C#经典游戏开发--2009书稿（合作出版）\书稿2011\游戏代码\第一篇  益智游戏\黑白棋2.0\obj\Debug\ResolveAssemblyReference.cache
+E:\我的书稿\C#经典游戏开发--2009书稿（合作出版）\书稿2011\游戏代码\第一篇  益智游戏\黑白棋2.0\obj\Debug\WindowsApplication1.Form1.resources
+E:\我的书稿\C#经典游戏开发--2009书稿（合作出版）\书稿2011\游戏代码\第一篇  益智游戏\黑白棋2.0\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\我的书稿\C#经典游戏开发--2009书稿（合作出版）\书稿2011\游戏代码\第一篇  益智游戏\黑白棋2.0\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+E:\我的书稿\C#经典游戏开发--2009书稿（合作出版）\书稿2011\游戏代码\第一篇  益智游戏\黑白棋2.0\bin\Debug\黑白棋.exe
+E:\我的书稿\C#经典游戏开发--2009书稿（合作出版）\书稿2011\游戏代码\第一篇  益智游戏\黑白棋2.0\bin\Debug\黑白棋.pdb
+C:\Documents and Settings\Administrator\桌面\黑白棋2.0\obj\Debug\黑白棋.exe
+C:\Documents and Settings\Administrator\桌面\黑白棋2.0\obj\Debug\黑白棋.pdb
+C:\Documents and Settings\Administrator\桌面\黑白棋2.0\bin\Debug\黑白棋.exe
+C:\Documents and Settings\Administrator\桌面\黑白棋2.0\bin\Debug\黑白棋.pdb
+C:\Documents and Settings\Administrator\桌面\黑白棋2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\黑白棋2.0\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\黑白棋2.0\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\黑白棋2.0\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\黑白棋\bin\Debug\黑白棋.exe
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\黑白棋\bin\Debug\黑白棋.pdb
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\黑白棋\obj\Debug\ResolveAssemblyReference.cache
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\黑白棋\obj\Debug\WindowsApplication1.Form1.resources
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\黑白棋\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\黑白棋\obj\Debug\黑白棋.exe
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\黑白棋\obj\Debug\黑白棋.pdb
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\作业OOP - 副本\obj\Debug\黑白棋.exe
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\作业OOP - 副本\obj\Debug\黑白棋.pdb
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\作业OOP - 副本\bin\Debug\黑白棋.exe
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\作业OOP - 副本\bin\Debug\黑白棋.pdb
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\作业OOP - 副本\obj\Debug\ResolveAssemblyReference.cache
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\作业OOP - 副本\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\360data\重要数据\桌面\黑白棋\51CTO下载-黑白棋\作业OOP - 副本\obj\Debug\WindowsApplication1.Form1.resources
