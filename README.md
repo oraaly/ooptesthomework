@@ -51,4 +51,4 @@
 ![img](https://github.com/oraaly/ooptesthomework/blob/master/img/Suanfa2.jpg）
 4.成果截图
 ![img](https://github.com/oraaly/ooptesthomework/blob/master/img/Jiemian1.jpg）
-![img](https://github.com/oraaly/ooptesthomework/blob/master/img/Jiemian2.jpg）
+![img](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian2.jpg）
