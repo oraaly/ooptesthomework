@@ -1,4 +1,3 @@
-# ooptesthomework
 开发平台
 ![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/KaiFaPingTai.jpg ）
 
@@ -14,6 +13,8 @@
   5．除非至少翻转了对手的一个棋子，否则就不能落子。如果一方没有合法棋步，也就是说不管他下到哪里，都不能至少翻转对手的一个棋子，那他这一轮只能弃权，而由他的对手继续落子直到他有合法棋步可下。
   6．如果一方至少有一步合法棋步可下，他就必须落子，不得弃权。
   7．棋局持续下去，直到棋盘填满或者双方都无合法棋步可下。
+  
+  
 2. 项目概述
 2.1 工作内容
     主要内容为c#语言的学习。主要工作为编写窗体程序与算法构建。
@@ -30,6 +31,8 @@
     无非移交产品。全部开发过程源码以及游戏程序已全部上传至泛雅gbl。
 2.4 验收标准 
     已成功通过一六年十二月二十八日oop课程项目课堂结项演示，结项视频已上传到泛雅。
+    
+    
 3. 实施计划
 3.1 工作任务的分解与人员分工
 编程组：刘洋负责具体程序的编写与调试。
@@ -42,6 +45,8 @@
 3.3 算法流程图
 ![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa.jpg ）
 ![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Suanfa2.jpg ）
+
+
 4.成果截图
 ![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian1.jpg ）
 ![](https://raw.githubusercontent.com/oraaly/ooptesthomework/master/img/Jiemian2.jpg ）
